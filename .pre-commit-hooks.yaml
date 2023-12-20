@@ -1,0 +1,5 @@
+- id: spell-check
+  name: spell-check
+  language: perl
+  entry: apply
+  types: [perl]
