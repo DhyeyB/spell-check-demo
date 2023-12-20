@@ -1,5 +1,5 @@
 - id: spell-check
   name: spell-check
   language: perl
-  entry: Build
+  entry: apply
   types: [perl]
